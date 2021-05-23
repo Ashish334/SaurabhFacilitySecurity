@@ -1,0 +1,3 @@
+User-agent: *
+Crawl-delay: 20
+Sitemap: https://saurabhfacilitysecurity.com/sitemap.xml
